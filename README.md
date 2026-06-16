@@ -143,3 +143,4 @@ npm run dev
 4. `/api/reminders` calls `fn_check_reminders()` which queries all overdue items
 5. Frontend shows them on dashboard + sidebar badges + section warnings
 6. Same logic for irrigation using `last_irrigated` timestamp
+Project maintained by Team AgroVision
